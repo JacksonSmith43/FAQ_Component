@@ -1,0 +1,13 @@
+body {
+    background-color: gray;
+}
+
+li {
+    list-style: none;
+    font-family: sans-serif;
+}
+
+.container {
+    margin: 15rem 0rem 0rem 35rem;
+    height: 70vh;
+}
